@@ -1,6 +1,5 @@
 # Task is to build a ToDo application with authentication using Django Web Framework 
 
-Setup
 You need to install django,in order to do that run in command prompt or editor terminal bash $pip install django After installing django,create your project by command bash $django-admin startproject 'projectname' Now, to apply this migrations run the following command
 
 $ python manage.py migrate
